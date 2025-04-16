@@ -1,5 +1,1 @@
-# Welcome to My Markdown Page
-
-## This is a Section Title
-
-### This is a Subsection
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
